@@ -3,4 +3,4 @@
 
 ### Contents:
 
--**practice-notebooks:** jupyter notebooks with exercises on the programming tools that will be used during research.
+**- practice-notebooks:** jupyter notebooks with exercises on the programming tools that will be used during research.
